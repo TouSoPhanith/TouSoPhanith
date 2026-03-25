@@ -10,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Frontend+Developer;Backend+Learner;Flutter+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Frontend+Developer;Backend+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -32,12 +32,12 @@
 
 ### ⚙️ Backend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,springboot,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,flutter" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ---
