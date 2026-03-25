@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=tousophanith&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
----
 
 <!-- TYPING ANIMATION -->
 <p align="center">
