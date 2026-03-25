@@ -16,8 +16,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning: **Full Stack Development**
-- 💡 Focus on: **React, Node.js, Flutter**
+- 🌱 Currently learning: **Software Development**
+- 💡 Focus on: **React, Vue, Java Spring Boot**
 - ⚡ Love building modern UI & web apps
 - 📫 Email: **sophaneth53@gmail.com**
 
@@ -32,12 +32,12 @@
 
 ### ⚙️ Backend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,springboot,flutter" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 🔥 What I'm Learning Now
 - ⚛️ Advanced React & Vue
-- 🌐 Backend APIs with Node.js
+- 🌐 Backend APIs with Java Spring Boot
 - 📱 Mobile Apps with Flutter
 
 ---
@@ -70,10 +70,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-> I enjoy turning ideas into real-world applications 🚀
-
----
-
-⭐️ Don't forget to follow me!
